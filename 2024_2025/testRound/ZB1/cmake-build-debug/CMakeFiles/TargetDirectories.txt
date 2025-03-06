@@ -1,0 +1,3 @@
+C:/Kubiszon/Studia/Potyczki-algorytmiczne/2024_2025/testRound/ZB1/cmake-build-debug/CMakeFiles/ZB1.dir
+C:/Kubiszon/Studia/Potyczki-algorytmiczne/2024_2025/testRound/ZB1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Kubiszon/Studia/Potyczki-algorytmiczne/2024_2025/testRound/ZB1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
